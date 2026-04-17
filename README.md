@@ -1,4 +1,4 @@
-# Weather Forecast Pro
+# Weather Forecast Prototype 
 
 A modern desktop weather forecast application built with Python and Tkinter. It fetches weather data from the [wttr.in](https://wttr.in) API and displays current weather conditions and a 3-day forecast with icons in a clean, user-friendly interface.
 
