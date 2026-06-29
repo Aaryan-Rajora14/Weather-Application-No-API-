@@ -49,5 +49,3 @@ This project is for educational and personal use.
 ---
 
 Created with Python and Tkinter by Aaryan Rajora.
-
-MAJOR UPDATE IS IN PROGRESS
