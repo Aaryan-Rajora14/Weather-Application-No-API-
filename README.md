@@ -46,8 +46,8 @@ python Weather_Practice.py
 
 This project is for educational and personal use.
 
----
+--------
 
 Created with Python and Tkinter by Aaryan Rajora.
 
-(New Weather app is coming in next week)
+(New Weather app is coming on next week)
