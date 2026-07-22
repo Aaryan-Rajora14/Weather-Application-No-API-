@@ -50,5 +50,6 @@ This project is for educational and personal use.
 
 Created with Python and Tkinter by Aaryan Rajora.
 
+Now You don't need to use this app beacuase
 (New Weather enhanced weather app has arrived)
 Checkout - https://aaryan-rajora14.github.io/Weather-Application-Enhanced-API/
