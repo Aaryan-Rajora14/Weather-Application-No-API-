@@ -32,3 +32,5 @@ follow following steps: -
 3. Hit Windows + S and Search edit environment variables then click "Environment Variables". 
 4. select path and click edit and then paste both location to as new paths.
 5. Retry Installing modules.
+
+Otherwise you an try the new Enhanced app.
